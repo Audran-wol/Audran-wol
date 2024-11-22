@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Python, Webdev, UI/Ux design, Node, Javascript**
 
-- 📫 How to reach me **https://audran-wol.github.io/Audran/**
+- 📫 How to reach me **https://audrantiedang.com/#home**
 
 - ⚡ Fun fact **“Even in hard times there's a possibility to have fun.”**
 
