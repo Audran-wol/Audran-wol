@@ -41,57 +41,71 @@ const skills = {
 - 💡 Innovation Management
 - 🤝 Stakeholder Communication
 
-#### Business & Entrepreneurial
-- 📈 Business Strategy Development
-- 🎭 Brand Management
-- 💰 Financial Planning
-- 🤝 Client Relationship Management
-- 📱 Digital Transformation
+## 📊 GitHub Metrics
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=audran-wol&show_icons=true&theme=tokyonight" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=audran-wol&theme=tokyonight" width="400"/>
+<div align="center" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
+  <img width="450" src="https://github-readme-stats.vercel.app/api?username=audran-wol&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  <img width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=audran-wol&theme=tokyonight&hide_border=true&background=0D1117"/>
 </div>
 
+## 🔝 Most Used Languages
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=audran-wol&layout=compact&theme=tokyonight" width="400"/>
+  <img width="325" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=audran-wol&theme=tokyonight"/>
+  <img width="325" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=audran-wol&theme=tokyonight"/>
 </div>
 
-## 🏆 Achievements & Certifications
-- 🎖️ Certified Cloud Practitioner
-- 🏅 Advanced AI Development Certification
-- 🎯 Project Management Professional
-- 🌟 Leadership Excellence Award
-
-## 🛠️ Technology Stack
-
-### Development
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-### Design & Tools
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-## 🤝 Let's Connect!
+## 🤝 Connect & Collaborate
 
 <div align="center">
-
-[![Website](https://img.shields.io/badge/Website-audrantiedang.com-blue?style=for-the-badge&logo=google-chrome)](https://audrantiedang.com/#home)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/audran-wolfhards)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@wolfhardsa)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/proxima-centauri)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/audran_germany)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://audrantiedang.com/#home)
-
+  <table>
+    <tr>
+      <td align="center" width="200">
+        <a href="https://audrantiedang.com/#home">
+          <img src="/api/placeholder/90/90" width="90" height="90" alt="Website"/>
+          <br />
+          <strong>Portfolio</strong>
+        </a>
+      </td>
+      <td align="center" width="200">
+        <a href="https://linkedin.com/in/audran-wolfhards">
+          <img src="/api/placeholder/90/90" width="90" height="90" alt="LinkedIn"/>
+          <br />
+          <strong>LinkedIn</strong>
+        </a>
+      </td>
+      <td align="center" width="200">
+        <a href="https://twitter.com/@wolfhardsa">
+          <img src="/api/placeholder/90/90" width="90" height="90" alt="Twitter"/>
+          <br />
+          <strong>Twitter</strong>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://www.youtube.com/c/proxima-centauri">
+          <img src="/api/placeholder/90/90" width="90" height="90" alt="YouTube"/>
+          <br />
+          <strong>YouTube</strong>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://instagram.com/audran_germany">
+          <img src="/api/placeholder/90/90" width="90" height="90" alt="Instagram"/>
+          <br />
+          <strong>Instagram</strong>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://discord.gg/audran#7918">
+          <img src="/api/placeholder/90/90" width="90" height="90" alt="Discord"/>
+          <br />
+          <strong>Discord</strong>
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
