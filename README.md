@@ -1,4 +1,4 @@
-# <div align="center">![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=3F85F7&center=true&vCenter=true&random=false&width=600&height=70&lines=Hello+World!+👋;I'm+Audran+Wolfhards;Full-Stack+Developer+%F0%9F%9A%80)</div>
+# <div align="center">![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=3F85F7&center=true&vCenter=true&random=false&width=600&height=70&lines=Hello+World!+👋;I'm+Audran+Tiedang;Full-Stack+Developer+%F0%9F%9A%80)</div>
 
 <div align="center">
   <img src="https://wallpapercave.com/wp/wp2757834.gif" alt="banner" width="1200"/>
