@@ -105,12 +105,6 @@ I lead teams, design architectures, and ship code -- every single day.
 
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/audran-wol/audran-wol/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/audran-wol/audran-wol/output/github-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/audran-wol/audran-wol/output/github-snake.svg" width="100%" />
-</picture>
-
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>

@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:audranyematha.com)",
+      "WebFetch(domain:audrantechlab.online)",
+      "WebFetch(domain:github.com)"
+    ]
+  }
+}
