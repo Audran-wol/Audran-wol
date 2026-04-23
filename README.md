@@ -105,11 +105,11 @@ I lead teams, design architectures, and ship code -- every single day.
 
 </div>
 
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=audran-wol&theme=github-compact&hide_border=true&bg_color=0d1117&color=6366f1&line=6366f1&point=c9d1d9&area=true&area_color=6366f1)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/audran-wol/audran-wol/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/audran-wol/audran-wol/output/github-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/audran-wol/audran-wol/output/github-snake.svg" width="100%" />
+</picture>
 
 ---
 
