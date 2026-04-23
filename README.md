@@ -1,102 +1,116 @@
-# <div align="center">![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=3F85F7&center=true&vCenter=true&random=false&width=600&height=70&lines=Hello+World!+👋;I'm+Audran+Tiedang;Full-Stack+Developer+%F0%9F%9A%80)</div>
-
-<div align="center">
-  <img src="https://wallpapercave.com/wp/wp2757834.gif" alt="banner" width="1200"/>
-</div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=audran-wol&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
-  <img src="https://img.shields.io/github/followers/audran-wol?label=Followers&style=social" alt="followers" />
-</p>
-
-## 🌟 About Me
-> *"Even in hard times there's a possibility to have fun."*
-
-I'm an innovative Full-Stack Developer from Cameroon, transforming ideas into digital reality. With a passion for both code and leadership, I bring technical expertise and strategic vision to every project.
-
-### 🎯 Current Endeavors
-- 🔭 Leading development on **Hexagone**
-- 🌱 Advancing skills in **React Native, Flutter & AI**
-- 👨‍💼 Mentoring aspiring developers
-- 🌐 Building scalable web solutions
-- 🤖 Exploring advanced AI applications
-
-### 💼 Professional Skills
-
-#### Technical Expertise
-```javascript
-const skills = {
-    frontend: ['React', 'Angular', 'Vue.js', 'HTML5/CSS3', 'JavaScript'],
-    backend: ['Node.js', 'Python', 'Django', 'Express'],
-    mobile: ['React Native', 'Flutter', 'Android'],
-    database: ['MongoDB', 'MySQL', 'PostgreSQL'],
-    tools: ['Git', 'Docker', 'AWS', 'Linux']
-};
-```
-
-#### Leadership & Management
-- 👔 Strategic Planning & Execution
-- 🎯 Team Leadership & Mentoring
-- 📊 Project Management & Agile Methodologies
-- 💡 Innovation Management
-- 🤝 Stakeholder Communication
-
-#### Business & Entrepreneurial
-- 📈 Business Strategy Development
-- 🎭 Brand Management
-- 💰 Financial Planning
-- 🤝 Client Relationship Management
-- 📱 Digital Transformation
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=audran-wol&show_icons=true&theme=tokyonight" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=audran-wol&theme=tokyonight" width="400"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=audran-wol&layout=compact&theme=tokyonight" width="400"/>
-</div>
-
-## 🏆 Achievements & Certifications
-- 🎖️ Certified Cloud Practitioner
-- 🏅 Advanced AI Development Certification
-- 🎯 Project Management Professional
-- 🌟 Leadership Excellence Award
-
-## 🛠️ Technology Stack
-
-### Development
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-### Design & Tools
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-## 🤝 Let's Connect!
-
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-audrantiedang.com-blue?style=for-the-badge&logo=google-chrome)](https://audrantiedang.com/#home)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/audran-wolfhards)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@wolfhardsa)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/proxima-centauri)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/audran_germany)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://audrantiedang.com/#home)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Audran%20Yematha&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Senior%20Full-Stack%20Engineer%20%7C%20AI%20Researcher&descSize=18&descAlignY=52" width="100%"/>
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=70&lines=Building+AI-powered+systems+that+scale;From+architecture+to+production+%E2%80%94+every+day;Founder+of+AudranLab+%F0%9F%94%AC)](https://git.io/typing-svg)
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/audranyematha.com-000?style=for-the-badge&logo=vercel&logoColor=white)](https://audranyematha.com)
+[![AudranLab](https://img.shields.io/badge/AudranLab-0A0A0A?style=for-the-badge&logo=atom&logoColor=6366f1)](https://audrantechlab.online)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/audran-yematha-7aab3321b)
+[![X](https://img.shields.io/badge/@WolfhardsA-000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/WolfhardsA)
+
+<img src="https://komarev.com/ghpvc/?username=audran-wol&label=Profile%20Views&color=6366f1&style=flat-square" alt="profile-views" />
 
 </div>
 
 ---
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 
-### 💫 *Creating digital excellence, one line of code at a time* 💫
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=audran-wol&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&langs_count=6" width="320"/>
+
+### `> whoami`
+
+Tech Lead at **Automatish.ai** -- building AI-powered automation systems.
+Head of Development at **Nextise GmbH** -- leading architecture & teams.
+Founder of **[AudranLab](https://audrantechlab.online)** -- AI research, prompt engineering & applied ML.
+
+5+ years turning complex problems into production systems.
+I lead teams, design architectures, and ship code -- every single day.
+
+<br clear="both"/>
+
+---
+
+### Tech Stack
+
+<div align="center">
+
+**Languages & Frameworks**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**AI / ML & Data**
+
+![OpenAI](https://img.shields.io/badge/LLM%20Integration-412991?style=flat-square&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG%20Pipelines-FF6F00?style=flat-square&logo=apache-spark&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-6366f1?style=flat-square&logo=probot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Vector DB](https://img.shields.io/badge/Vector%20Search-000?style=flat-square&logo=pinecone&logoColor=white)
+
+**DevOps & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
 </div>
+
+---
+
+### AudranLab -- AI Research & Automation
+
+<table>
+<tr>
+<td width="33%" align="center"><b>Prompt Engineering Lab</b><br/><sub>Production-grade prompt systems with scored, repeatable outputs</sub></td>
+<td width="33%" align="center"><b>n8n Automation</b><br/><sub>Enterprise workflow pipelines that scale operations</sub></td>
+<td width="33%" align="center"><b>AI Research</b><br/><sub>RAG architectures, agent orchestration, model benchmarking</sub></td>
+</tr>
+</table>
+
+<div align="center">
+
+> *Explore it at [audrantechlab.online](https://audrantechlab.online)*
+
+</div>
+
+---
+
+### GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=audran-wol&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&icon_color=6366f1&title_color=6366f1&text_color=c9d1d9&ring_color=6366f1" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=audran-wol&theme=github-dark-blue&hide_border=true&background=0d1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" height="165"/>
+
+</div>
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=audran-wol&theme=discord&no-frame=true&no-bg=true&column=-1&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=audran-wol&theme=github-compact&hide_border=true&bg_color=0d1117&color=6366f1&line=6366f1&point=c9d1d9&area=true&area_color=6366f1)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
